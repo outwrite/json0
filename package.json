@@ -1,6 +1,6 @@
 {
   "name": "@outwrite/ot-json0",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "JSON OT type",
   "main": "lib/index.js",
   "directories": {
